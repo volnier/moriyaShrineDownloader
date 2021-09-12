@@ -7,5 +7,5 @@ The script asks you to input the name of the file you want to download and then 
 ## License 
 This project is licensed under the [European Union Public License, version 1.2](https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12).
 ## Why?
-From what I've seen 60 second wait on the website is only **delaying** the server load. The only thing it does is annoy the end-user.
+From what I've seen the 60 second wait on the website is only **delaying** the server load. The only thing it does is annoy the end-user.
 If any of the Moriya Shrine website's staff want me to take this project down then please create an issue.
