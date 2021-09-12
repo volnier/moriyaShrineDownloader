@@ -19,7 +19,7 @@ def main():
 
     for l in downloads:
         if dwnld.lower() == l.lower():
-            with open(dwnld.lower(), "wb") as k:
+            with open(dwnld.lower() + ".zip", "wb") as k:
                 print("Downloading %s" % dwnld.lower())
                 response = requests.get(downloads[l], stream=True)
                 length = response.headers.get('content-length')
