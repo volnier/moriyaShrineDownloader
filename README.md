@@ -1,7 +1,6 @@
 # moriyaShrineDownloader
 moriyaShrineDownloader - a tool to help you download games from the Moriya Shrine website without waiting.
-
-Required libraries: [Requests](https://docs.python-requests.org/en/latest/).
+Dependencies: [Requests](https://docs.python-requests.org/en/latest/).
 
 Last tested in Python 3.10.0.
 ## Usage
