@@ -1,5 +1,6 @@
 # moriyaShrineDownloader
-moriyaShrineDownloader - a tool to help you download games from the Moriya Shrine website without waiting.
+~~moriyaShrineDownloader - a tool to help you download games from the Moriya Shrine website without waiting.~~
+actually there's no point in using this since moriya shrine got a dmca takedown
 
 Dependencies: [Requests](https://docs.python-requests.org/en/latest/).
 
